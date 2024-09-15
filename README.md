@@ -36,7 +36,7 @@ Third-year Engineering Science student majoring in Machine Intelligence at the U
             <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=FFFFFF" width="65" height="20" />
             <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" width="65" height="20" />
             <img src='https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white' width="65" height="20" />
-            <img src='https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white' width="65" height="20" />
+            <img src='[https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)' width="65" height="20" />
 
 
 
