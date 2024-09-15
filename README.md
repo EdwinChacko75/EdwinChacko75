@@ -12,9 +12,9 @@ Third-year Engineering Science student majoring in Machine Intelligence at the U
 
 # 🚀 What I'm Up To
 - Developing NNUE:
-  Working on a neural network for chess engines (NNUE), with a focus on improving performance and accuracy.
+  - Working on a neural network for chess engines (NNUE), with a focus on improving performance and accuracy.
 - Awaiting Results from AI4Mat NeurIPS Submission:
-  Submitted a research paper and awaiting feedback from AI4Mat NeurIPS
+  - Submitted a research paper and awaiting feedback from AI4Mat NeurIPS
 
 
 # 🌐 Connect with me:
