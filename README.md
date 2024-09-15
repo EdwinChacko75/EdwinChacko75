@@ -26,7 +26,6 @@ Third-year Engineering Science student majoring in Machine Intelligence at the U
             <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" width="65" height="20" />
             <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=FFFFFF" width="65" height="20" />
             <img src='https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green' width="65" height="20" />
-
             <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" width="65" height="20" />
             <img src='https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white' width="65" height="20" />
             <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white' width="65" height="20" />
