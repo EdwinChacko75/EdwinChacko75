@@ -32,7 +32,6 @@ Third-year Engineering Science student majoring in Machine Intelligence at the U
             <img src='https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)' width="65" height="20" />
             <img src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white' width="65" height="20" />
             <img src='https://img.shields.io/badge/Javascript-323330?logo=javascript' width="65" height="20" />
-            <img src='https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white' width="65" height="20" />
 
 
 - Developer Tools:
