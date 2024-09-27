@@ -20,7 +20,7 @@ Third-year Engineering Science student majoring in Machine Intelligence at the U
 # 🌐 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/edwin-chacko)
-<!-- - [Portfolio Website](https://edwinchacko.netlify.app) -->
+- [Portfolio Website](https://edwinchacko.netlify.app)
 
 # 💻 Tech Stack:
 
