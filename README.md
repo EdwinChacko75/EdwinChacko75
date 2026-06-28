@@ -2,10 +2,10 @@
 
 # 💫 About Me
 
-## 🎓 Education
+## Education
 Incoming fourth-year Engineering Science student majoring in Machine Intelligence at the University of Toronto.
 
-## 💼 Professional Experience
+## Professional Experience
 - AI/ML Engineer, PEY at PocketHealth
 - Machine Learning Researcher at McMaster University, ChemAI Lab
 - Machine Learning Engineer at UTMIST, Flow To Learn
