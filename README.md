@@ -1,59 +1,57 @@
-<h1 align="center">Hi, 👋 I'm Edwin Chacko</h1>
+<h1 align="center">Hi, I'm Edwin Chacko</h1>
 
+## About Me
 
-# 💫 About Me:
+Incoming fourth-year Engineering Science student in the Machine Intelligence option at the University of Toronto.
 
-## Education
-Third-year Engineering Science student majoring in Machine Intelligence at the University of Toronto.
+I build machine learning systems for medical AI, scientific discovery, and LLM reasoning.
 
-## Professional Experience 
-- ML Researcher at McMaster University
-- Calibrations Engineering Intern at VACS Calibrations
+## Experience
 
-# 🚀 What I'm Up To
-- Developing NNUE:
-  - Working on a neural network for chess engines (NNUE), with a focus on improving performance and accuracy.
-- Revising AI4Mat NeurIPS Submission:
-  - Co-authored a research paper submitted to AI4Mat NeurIPS and currently revising it based on feedback.
+- AI/ML Engineer, PEY at PocketHealth
+- Machine Learning Researcher at McMaster University, ChemAI Lab
+- Machine Learning Engineer at UTMIST, Flow To Learn
 
+## What I'm Working On
 
-# 🌐 Connect with me:
-<!-- 
-<a href="[LinkedIn](https://www.linkedin.com/in/edwin-chacko)" target="_blank">LinkedIn</a>
-<a href="[Portfolio Website](https://edwinchacko.netlify.app)" target="_blank">Portfolio Website</a>
--->
+- Reasonix: improving reasoning in small language models with chain-of-thought fine-tuning, SFT, and RLHF.
+- Flow To Learn: generating neural network weights with flow matching for few-shot adaptation and robust initialization.
+- Spectro: multimodal molecule elucidation from IR and NMR data, published at the AI4Mat-NeurIPS 2024 workshop.
+
+## Publications
+
+- Chacko, Sondhi, et al. "Spectro: A Multi-modal Approach for Molecule Elucidation Using IR and NMR Data." AI4Mat-NeurIPS 2024. [DOI](https://doi.org/10.26434/chemrxiv-2024-37v2j)
+- Sondhi, Chacko, et al. "j-IR-vis: Vision model for Infrared spectroscopy embeddings." ChemRxiv preprint, 2025. [DOI](https://doi.org/10.26434/chemrxiv-2025-d0j2v)
+
+## Connect
+
 - [LinkedIn](https://www.linkedin.com/in/edwin-chacko)
 - [Portfolio Website](https://edwinchacko.netlify.app)
+- [GitHub](https://github.com/EdwinChacko75)
 
-# 💻 Tech Stack:
+## Tech Stack
 
-- Languages:
-            <img src='https://img.shields.io/badge/Python-306998?logo=Python&logoColor=FFD43B' width="65" height="20" />
-            <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" width="65" height="20" />
-            <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=FFFFFF" width="65" height="20" />
-            <img src='https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green' width="65" height="20" />
-            <img src='https://img.shields.io/badge/Javascript-323330?logo=javascript' width="65" height="20" />
-            <img src='https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white' width="65" height="20" />
+### Languages
 
+<img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B" width="85" height="24" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" width="75" height="24" />
+<img src="https://img.shields.io/badge/CUDA-000000?logo=nvidia&logoColor=76B900" width="80" height="24" />
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=FFFFFF" width="65" height="24" />
 
-- Developer Tools:
-            <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' width="65" height="20" />
-            <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white' width="65" height="20" />
-            <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=FFFFFF" width="65" height="20" />
-            <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" width="65" height="20" />
-            <img src='https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white' width="65" height="20" />
-            <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" width="65" height="20" />
+### ML and Data
 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" width="90" height="24" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" width="110" height="24" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" width="80" height="24" />
+<img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" width="80" height="24" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" width="105" height="24" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000000" width="125" height="24" />
 
-- Libraries/Frameworks:
-            <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" width="65" height="20" />
-            <img src='https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white' width="65" height="20" />
-            <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white' width="65" height="20" />
-            <img src='https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)' width="65" height="20" />
-            <img src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white' width="65" height="20" />
-            <img src='https://img.shields.io/badge/React-20232a?logo=React&logoColor=61DAFB' width="65" height="20" />
-            <img src='https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff' width="65" height="20" />
-            <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' width="65" height="20" />
-                        
-                      
-                      
+### Tools and Platforms
+
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="80" height="24" />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900" width="65" height="24" />
+<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" width="75" height="24" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" width="105" height="24" />
+<img src="https://img.shields.io/badge/Hydra-89B8CD?logoColor=white" width="70" height="24" />
+<img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=lightning&logoColor=white" width="150" height="24" />
